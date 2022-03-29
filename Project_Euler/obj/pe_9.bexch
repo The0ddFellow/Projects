@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__pe_9.o
+[PROJECT FILES]
+C:\Users\Stephan\Documents\Ada_Projects\default.gpr
+20220301183228 593836fa1a0f63d0aea260d1d7a984c3
+[BOUND OBJECT FILES]
+C:\Users\Stephan\Documents\Ada_Projects\obj\pe_9.o
+[GENERATED SOURCE FILES]
+b__pe_9.ads
+b__pe_9.adb
+b__pe_9.ali
+[RESULTING OPTIONS]
+-LC:\Users\Stephan\Documents\Ada_Projects\obj\
+-LC:\Users\Stephan\Documents\Ada_Projects\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

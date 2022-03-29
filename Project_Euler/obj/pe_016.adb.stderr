@@ -1,0 +1,1 @@
+pe_016.adb:5:30: warning: "Ada.Numerics.Big_Numbers.Big_Integers" is an Ada 2022 unit [-gnatwi]

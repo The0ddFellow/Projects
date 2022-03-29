@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__pe_13.o
+[PROJECT FILES]
+C:\Users\Stephan\Documents\Ada_Projects\Project_Euler\default.gpr
+20220304174012 405c34231f25e6bf99ebd94c2b8f6a23
+[BOUND OBJECT FILES]
+C:\Users\Stephan\Documents\Ada_Projects\Project_Euler\obj\pe_13.o
+[GENERATED SOURCE FILES]
+b__pe_13.ads
+b__pe_13.adb
+b__pe_13.ali
+[RESULTING OPTIONS]
+-LC:\Users\Stephan\Documents\Ada_Projects\Project_Euler\obj\
+-LC:\Users\Stephan\Documents\Ada_Projects\Project_Euler\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
