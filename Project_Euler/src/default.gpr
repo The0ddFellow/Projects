@@ -1,0 +1,10 @@
+project Default is
+
+   for Main use ("pe_3.adb", "pe_2.adb", "pe_1.adb", "pe_1.adb") & project'Main;
+
+   package Compiler is
+      for Switches ("ada") use ("-g", "-O2");
+   end Compiler;
+
+end Default;
+
